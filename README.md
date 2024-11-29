@@ -1,7 +1,7 @@
 # Simple Python Calculator
 
 
-  ![Calculator Example](screenshot.png)
+  ![Calculator Example](simplecalc.png)
 
 ## Overview
 
